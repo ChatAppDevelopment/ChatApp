@@ -7,7 +7,7 @@ This is the public repo that contains all open-sourced ChatApp projects that are
 <details><summary>Supported Apps</summary>
    <p>
    
-      ## The table below shows all ChatApp apps that are listed in this repo.
+      <h2>The table below shows all ChatApp apps that are listed in this repo.</h2>
    
       | App | Support | Version | Repo |
       | --- | --- | --- | --- |
@@ -18,8 +18,10 @@ This is the public repo that contains all open-sourced ChatApp projects that are
 
 <details><summary>License</summary>
    <p>
-      # I highly recommend reading the license to avoid legal trouble.
+      
+      <h2>I highly recommend reading the license to avoid legal trouble.</h2>
       
       The license can be found <a href="https://github.com/ChatAppDevelopment/ChatApp/blob/main/LICENSE">here</a>.
+   
    </p>
 </details>
