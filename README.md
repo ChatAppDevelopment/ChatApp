@@ -20,6 +20,6 @@ This is the public repo that contains all open-sourced ChatApp projects that are
    <p>
       ## I highly recommend reading the license to avoid legal trouble.
       
-      The license can be found [here](https://github.com/ChatAppDevelopment/ChatApp/blob/main/LICENSE)
+      
    </p>
 </details>
