@@ -1,13 +1,13 @@
 # ChatApp Open-Source Programs
 
-<details><summary>CLICK ME</summary>
+<details><summary>Supported Apps</summary>
 <p>
 
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
+#### The table below shows all ChatApp apps that are listed in this repo.
+   
+   | App | Support | Version | Repo |
+   | --- | --- | --- | --- |
+   | ChatApp | ✔️ | | Alpha 1.0 | N/A |
 
 </p>
 </details>
