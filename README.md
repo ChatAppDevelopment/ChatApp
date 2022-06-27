@@ -3,7 +3,7 @@
 <details><summary>Supported Apps</summary>
 <p>
 
-###### The table below shows all ChatApp apps that are listed in this repo.
+## The table below shows all ChatApp apps that are listed in this repo.
    
    | App | Support | Version | Repo |
    | --- | --- | --- | --- |
