@@ -18,8 +18,8 @@ This is the public repo that contains all open-sourced ChatApp projects that are
 
 <details><summary>License</summary>
    <p>
-      ## I highly recommend reading the license to avoid legal trouble.
+      # I highly recommend reading the license to avoid legal trouble.
       
-      
+      The license can be found <a href="https://github.com/ChatAppDevelopment/ChatApp/blob/main/LICENSE">here</a>.
    </p>
 </details>
