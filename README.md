@@ -14,10 +14,10 @@ This is the public repo that contains all open-sourced ChatApp projects that are
    
 </details>
 
-<details><summary>Supported Apps</summary>
+<details><summary>License</summary>
    
    ## I highly recommend reading the license to avoid legal trouble.
 
-   The license can be found <a href="https://github.com/ChatAppDevelopment/ChatApp/blob/main/LICENSE">here</a>.
+   The license can be found [here](https://github.com/ChatAppDevelopment/ChatApp/blob/main/LICENSE).
    
 </details>
