@@ -2,8 +2,8 @@
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    test-->sec;
+    test-->thr;
+    sec-->did;
+    thr-->did;
 ```
