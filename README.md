@@ -5,23 +5,19 @@ This is the public repo that contains all open-sourced ChatApp projects that are
 <hr>
 
 <details><summary>Supported Apps</summary>
-   <p>
    
-      <h2>The table below shows all ChatApp apps that are listed in this repo.</h2>
+   ## The table below shows all ChatApp apps that are listed in this repo.
    
-      | App | Support | Version | Repo |
-      | --- | --- | --- | --- |
-      | ChatApp | ✔️ | | Alpha 1.0 | N/A |
+   | App | Support | Version | Repo |
+   | --- | --- | --- | --- |
+   | ChatApp | ✔️ | | Alpha 1.0 | N/A |
    
-   </p>
 </details>
 
 <details><summary>Supported Apps</summary>
-   <p>
-      
-      <h2>I highly recommend reading the license to avoid legal trouble.</h2>
-      
-      The license can be found <a href="https://github.com/ChatAppDevelopment/ChatApp/blob/main/LICENSE">here</a>.
    
-   </p>
+   ## I highly recommend reading the license to avoid legal trouble.
+
+   The license can be found <a href="https://github.com/ChatAppDevelopment/ChatApp/blob/main/LICENSE">here</a>.
+   
 </details>
