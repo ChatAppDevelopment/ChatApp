@@ -16,7 +16,7 @@ This is the public repo that contains all open-sourced ChatApp projects that are
    </p>
 </details>
 
-<details><summary>License</summary>
+<details><summary>Supported Apps</summary>
    <p>
       
       <h2>I highly recommend reading the license to avoid legal trouble.</h2>
