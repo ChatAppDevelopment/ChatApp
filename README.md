@@ -10,7 +10,8 @@ This is the public repo that contains all open-sourced ChatApp projects that are
    
    | App | Support | Version | Repo |
    | --- | --- | --- | --- |
-   | ChatApp | ✔️ | Alpha 1.0 | [Repo](https://github.com/ChatAppDevelopment/ChatApp/tree/main/Apps/ChatApp%20Alpha%201.0) |
+   | ChatApp | ❌ | Alpha 1.0 | [Repo](https://github.com/ChatAppDevelopment/ChatApp/tree/main/Apps/ChatApp%20Alpha%201.0) |
+   | ChatApp Imperial | ✔ | Pre-Alpha 1.0.0 | No public repo. |
    
 </details>
 
