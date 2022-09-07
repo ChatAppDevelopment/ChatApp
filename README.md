@@ -1,6 +1,6 @@
 # ChatApp Open-Source Programs
 
-This is the public repo that contains all open-sourced ChatApp projects that are published to the site. You can find more information posted in the dropdown categories below. Keep in mind that this is subject to change in the future.
+This is the public repo that contains all open-sourced ChatApp projects that are published to the site. You can find more information posted below. Keep in mind that this is subject to change in the future.
 
 <hr>
    
